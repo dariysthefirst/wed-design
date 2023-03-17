@@ -1,0 +1,15 @@
+html {
+    background-color: rgb(39, 38, 38);
+   }
+   .row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+    padding: 5px;
+  }
+  p{
+    margin-top: 5px;
+ color: #FFFAF0;
+  }
